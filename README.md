@@ -1,0 +1,1 @@
+### API de delivery inspirada nos recursos do iFood com Node, Mongo, Mongoose, GraphQL Yoga, JWT, TypeScript, Docker e Docker Compose
