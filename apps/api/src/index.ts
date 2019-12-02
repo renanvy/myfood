@@ -1,0 +1,1 @@
+console.log('Hello Node, Typescript, Nodemon and Surcrase')
